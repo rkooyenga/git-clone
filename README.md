@@ -25,6 +25,7 @@ You will be prompted to enter a user or org name. Type a valid username of a git
 
 Your choices are to download all of them or cancel out. Pretty simple. If you are downloading from a large list such as from Google or Twitter, make sure you have a fast internet connection, ample storage space on your drive, and plenty of coffee while you wait. 
 
+That's pretty much all there is to it. Very simple, but quite useful.
 
 
  by [**Ray Kooyenga**](https://github.com/rkooyenga)
