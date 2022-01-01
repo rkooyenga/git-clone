@@ -2,7 +2,7 @@
 # mass clone all repos (up to 300) of a Github user/organization
 # by ray kooyenga @rayktweets
 # created 03-04-2014
-# revised 01-01-2021
+# revised 01-01-2022
 
 # prettify the console output
 echo_r() {
