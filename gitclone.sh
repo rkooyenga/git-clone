@@ -1,6 +1,7 @@
 #!/bin/bash
 # mass clone all repos (up to 300) of a Github user/organization
-# by ray kooyenga @rayktweets
+# just run./gitclone.sh , takes no parameters.
+# by ray kooyenga , @rayktweets , https://github.com/rkooyenga/git-clone
 # created 03-04-2014
 # revised 01-01-2022
 
