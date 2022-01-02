@@ -27,5 +27,7 @@ Your choices are to download all of them or cancel out. Pretty simple. If you ar
 
 That's pretty much all there is to it. Very simple, but quite useful.
 
-
  by [**Ray Kooyenga**](https://github.com/rkooyenga)
+ 
+ blog and more projects at by [**rkooyenga.github.io**](https://rkooyenga.github.io/)
+
